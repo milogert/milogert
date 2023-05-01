@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milogert
-- 👀 I’m interested in board games, painting miniatures, and keyboards.
+- 🎲 I’m interested in board games, painting miniatures, and keyboards.
 - 🌱 I’m currently learning Elixir, Nix, and how to paint better.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me email.
